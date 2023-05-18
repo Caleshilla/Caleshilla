@@ -1,11 +1,23 @@
 #Principal {
-    color: blueviolet;
-    background-color: aqua;
+    color: black;
+    background-color: rgb(149, 217, 234);
 }
 #Secundaria{
-    color: black;
-    background-color: bisque;
+    color: wheat;
+    background-color: rgb(3, 3, 53);
 }
 section{
-    background-color: brown;
+    font-family: fantasy;
+    font-size: medium;
+    glyph-orientation-horizontal: inherit;
+    padding: 16px 8px 30px 10px;
+    margin: 16px;
+    border:8px yellowgreen dotted;
+}
+.Elemento, .contenedor{
+    margin: 16px;
+    border: 4px red double;
+    font-family: lucida sans;
+    font-size: larger;
+
 }
